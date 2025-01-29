@@ -33,7 +33,7 @@ git merge nouvelle-branche
 ### Création de son PAT (personnal access token) : 
 
 Dans les paramètres de compte, allez dans "Developer settings" :
-![[Pasted image 20250129171719.png]]
+!(Pasted image 20250129171719.png)
 
 
 ```bash
